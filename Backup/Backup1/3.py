@@ -1,0 +1,7 @@
+import pandas as pd
+
+# Load data
+data = pd.read_csv('./data.csv')
+
+print(data.columns)
+print(data.head())

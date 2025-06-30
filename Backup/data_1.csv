@@ -1,0 +1,1001 @@
+months_as_customer,age,policy_state,policy_csl,policy_detuctable,policy_annual_premium,insured_sex,insured_education_level,insured_occuoation,insured_hobbies,insured_relationship,incident_date,incident_type,collision_type,incident_severity,incident_state,incident_hour_of_the_day,number_of_vehicles_involved,property_damage,bodily_injuries,police_report_available,total_claim_amout,injury_claim,propety_claim,vehicle_claim,auto_make,auto_year,fraud_reported,policy_monthly_premium,total_policy_premium_by_moths_customer,auto_year,fraud_reported
+27,33, Illinois,100/300,500,144299,FEMALE,PhD,other-service,golf,own-child,30/01/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,21,1,NO,1,YES,27700,2770,2770,22160,Toyota,2012,NO,"12,025",324673,2004,Y
+140,31,Indiana,500/1000,500,70864,MALE,High School,machine-op-inspct,reading,unmarried,06/01/2015,Single Vehicle Collision,Side Collision,Total Loss,WV,9,1,NO,0,YES,77880,14160,7080,56640,Suburu,2015,NO,"5,905",826747,2007,Y
+237,40,Indiana,100/300,1000,88331,MALE,College,craft-repair,kayaking,husband,24/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,VA,6,1,NO,1,NO,77880,7080,14160,56640,Ford,2005,NO,"7,361",1744537,2007,N
+224,40,Ohio,100/300,2000,12917,FEMALE,JD,sales,kayaking,not-in-family,08/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,SC,21,1,NO,1,YES,69840,7760,15520,46560,Dodge,2009,NO,"1,076",241117,2014,Y
+241,45, Illinois,500/1000,2000,11045,FEMALE,PhD,machine-op-inspct,basketball,unmarried,15/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,5,1,NO,2,NO,91650,14100,14100,63450,Accura,2011,NO,920,221820,2009,N
+106,30,Ohio,250/500,500,53817,FEMALE,PhD,transport-moving,reading,own-child,10/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,NC,23,1,NO,2,NO,51120,5680,5680,39760,Mercedes,2005,NO,"4,485",475384,2003,Y
+119,32, Illinois,500/1000,1000,99351,MALE,High School,armed-forces,bungie-jumping,unmarried,12/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,WV,12,1,NO,0,YES,56300,5630,11260,39410,BMW,2011,NO,"8,279",985231,2012,N
+128,30,Ohio,100/300,1000,106133,MALE,MD,machine-op-inspct,movies,own-child,10/01/2015,Single Vehicle Collision,Front Collision,Major Damage,WV,8,1,NO,0,NO,68530,12460,6230,49840,Audi,1997,NO,"8,844",1132085,2015,N
+199,41,Ohio,250/500,1000,89583,FEMALE,Associate,sales,paintball,husband,11/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NC,10,1,NO,1,NO,30100,3010,0,27090,Chevrolet,1999,NO,"7,465",1485585,2012,N
+107,31, Illinois,500/1000,2000,137422,FEMALE,PhD,machine-op-inspct,bungie-jumping,other-relative,26/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,16,1,NO,0,NO,51260,9320,9320,32620,Suburu,2002,NO,"11,452",1225346,1996,N
+164,38, Illinois,250/500,2000,126976,FEMALE,PhD,transport-moving,yachting,not-in-family,17/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NY,4,1,NO,1,YES,90000,18000,9000,63000,Ford,2015,NO,"10,581",1735339,2002,N
+155,34,Indiana,100/300,500,170679,MALE,Masters,protective-serv,dancing,other-relative,07/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,OH,1,1,NO,1,YES,77040,8560,8560,59920,Honda,1998,NO,"14,223",2204604,2006,N
+128,28,Ohio,500/1000,1000,98653,FEMALE,High School,adm-clerical,polo,other-relative,16/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,VA,11,1,NO,0,YES,101860,18520,18520,64820,Honda,2007,NO,"8,221",1052299,2000,N
+359,47,Ohio,100/300,2000,136768,FEMALE,MD,handlers-cleaners,basketball,unmarried,11/01/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,13,1,NO,0,NO,55500,5550,11100,38850,Mercedes,2012,NO,"11,397",4091643,2010,N
+223,43,Ohio,500/1000,500,12351,FEMALE,Masters,tech-support,exercise,not-in-family,10/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,14,1,NO,2,NO,54400,5440,5440,43520,BMW,2011,NO,"1,029",229523,2003,Y
+69,26, Illinois,100/300,2000,92472,FEMALE,High School,machine-op-inspct,base-jumping,unmarried,07/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,14,1,NO,2,NO,63120,5260,10520,47340,Audi,2008,NO,"7,706",531714,1999,Y
+298,49,Ohio,250/500,500,145101,FEMALE,College,other-service,exercise,own-child,21/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,17,1,NO,2,NO,28100,2810,5620,19670,Jeep,2012,NO,"12,092",3603342,2012,N
+166,34,Ohio,100/300,1000,108372,FEMALE,High School,machine-op-inspct,base-jumping,wife,09/02/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,18,1,NO,0,YES,53680,4880,4880,43920,Honda,2005,NO,"9,031",1499146,2015,N
+298,46,Ohio,500/1000,1000,113842,MALE,JD,prof-specialty,dancing,own-child,16/02/2015,Single Vehicle Collision,Side Collision,Minor Damage,SC,18,1,NO,2,YES,33550,3050,6100,24400,Volkswagen,2005,NO,"9,487",2827076,2015,N
+84,30, Illinois,500/1000,2000,103579,FEMALE,MD,protective-serv,kayaking,wife,30/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,SC,9,1,NO,1,YES,57640,5240,10480,41920,Volkswagen,2010,NO,"8,632",725053,2014,N
+121,31, Illinois,500/1000,1000,106198,FEMALE,JD,armed-forces,camping,unmarried,01/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,WV,16,1,NO,0,YES,65250,7250,7250,50750,BMW,2002,NO,"8,850",1070830,2011,N
+292,44,Ohio,500/1000,500,109757,MALE,PhD,priv-house-serv,basketball,unmarried,28/02/2015,Single Vehicle Collision,Side Collision,Total Loss,SC,12,1,NO,1,YES,61700,6170,6170,49360,Saab,2005,NO,"9,146",2670754,1996,N
+289,47,Ohio,500/1000,2000,110229,FEMALE,Associate,adm-clerical,hiking,own-child,31/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,VA,15,1,NO,1,YES,54000,6000,6000,42000,Toyota,1996,NO,"9,186",2654682,2000,Y
+254,41, Illinois,250/500,2000,124104,FEMALE,Masters,protective-serv,board-games,own-child,04/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,16,1,NO,2,YES,100210,18220,18220,63770,Audi,2014,NO,"10,342",2626868,2011,Y
+103,33,Indiana,100/300,1000,96988,MALE,MD,armed-forces,exercise,own-child,21/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NY,21,1,NO,1,YES,76920,12820,6410,57690,Chevrolet,2002,NO,"8,082",832480,2005,N
+108,32,Ohio,500/1000,2000,1257,FEMALE,High School,machine-op-inspct,basketball,unmarried,11/01/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,23,1,NO,1,NO,61270,5570,11140,44560,Suburu,1999,NO,105,11313,2006,Y
+102,28,Ohio,250/500,500,107541,MALE,MD,machine-op-inspct,reading,wife,15/02/2015,Single Vehicle Collision,Side Collision,Total Loss,PA,6,1,NO,1,NO,73400,7340,7340,58720,Dodge,1996,NO,"8,962",914099,2005,N
+108,31,Indiana,500/1000,2000,11757,MALE,Masters,protective-serv,yachting,not-in-family,19/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,14,1,NO,0,NO,57330,6370,6370,44590,Dodge,2006,NO,980,105813,2003,Y
+88,30,Indiana,100/300,1000,143788,FEMALE,College,transport-moving,reading,husband,25/02/2015,Single Vehicle Collision,Side Collision,Total Loss,SC,3,1,NO,2,YES,56000,14000,0,42000,Chevrolet,2003,NO,"11,982",1054445,2009,N
+294,46, Illinois,100/300,500,15328,MALE,College,prof-specialty,exercise,own-child,23/02/2015,Single Vehicle Collision,Side Collision,Total Loss,SC,8,1,NO,0,YES,65780,11960,11960,41860,Mercedes,2013,NO,"1,277",375536,2011,N
+334,46, Illinois,100/300,1000,87688,MALE,MD,sales,reading,other-relative,03/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,WV,2,1,NO,2,NO,57330,12740,6370,38220,Jeep,1998,NO,"7,307",2440649,2005,N
+86,29, Illinois,100/300,2000,140906,MALE,High School,prof-specialty,yachting,husband,30/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,0,1,NO,2,YES,62920,9680,14520,38720,Accura,2005,NO,"11,742",1009826,2006,Y
+479,60, Illinois,100/300,2000,130483,FEMALE,College,other-service,cross-fit,husband,09/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,18,1,NO,0,NO,60600,5050,10100,45450,Honda,2001,NO,"10,874",5208446,2008,N
+230,44,Indiana,250/500,2000,100937,FEMALE,College,prof-specialty,hiking,other-relative,17/02/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,19,1,NO,0,YES,74140,13480,13480,47180,BMW,2015,NO,"8,411",1934626,2015,N
+392,50,Ohio,100/300,2000,110897,FEMALE,PhD,exec-managerial,exercise,not-in-family,14/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,WV,4,1,NO,2,YES,108030,16620,16620,74790,Saab,2002,NO,"9,241",3622635,1999,N
+143,30,Indiana,100/300,500,139239,FEMALE,High School,exec-managerial,dancing,unmarried,12/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,16,1,NO,2,YES,54300,10860,5430,38010,Toyota,2010,NO,"11,603",1659265,1995,Y
+165,35, Illinois,250/500,500,90002,MALE,College,craft-repair,camping,own-child,24/02/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,8,1,NO,1,YES,69700,6970,6970,55760,BMW,2008,NO,"7,500",1237528,2004,Y
+255,45, Illinois,500/1000,500,119227,MALE,High School,sales,base-jumping,own-child,04/01/2015,Single Vehicle Collision,Front Collision,Total Loss,NC,16,1,NO,2,YES,67320,12240,12240,42840,Ford,2006,NO,"9,936",2533574,2001,N
+472,64,Indiana,250/500,500,98924,MALE,Masters,other-service,skydiving,not-in-family,21/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,13,1,NO,2,NO,70900,14180,7090,49630,Mercedes,2002,NO,"8,244",3891011,2007,N
+246,44,Ohio,100/300,1000,1397,MALE,High School,machine-op-inspct,reading,not-in-family,03/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NY,6,1,NO,1,NO,61740,6860,6860,48020,Accura,1997,NO,116,28639,2011,Y
+463,57, Illinois,250/500,500,106367,MALE,Masters,priv-house-serv,dancing,wife,03/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,14,1,NO,2,YES,59400,6600,6600,46200,Dodge,1995,NO,"8,864",4103993,2010,N
+287,45,Ohio,500/1000,1000,123069,MALE,Masters,transport-moving,golf,not-in-family,10/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,VA,19,1,NO,0,NO,53800,5380,5380,43040,Accura,2006,NO,"10,256",2943400,2001,Y
+235,40, Illinois,500/1000,500,139894,MALE,College,craft-repair,bungie-jumping,husband,24/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NY,11,1,NO,1,NO,68300,6830,13660,47810,Suburu,2003,NO,"11,658",2739591,2010,N
+2,20,Indiana,500/1000,1000,118998,FEMALE,High School,craft-repair,golf,other-relative,01/02/2015,Single Vehicle Collision,Side Collision,Minor Damage,WV,22,1,NO,1,YES,48360,4030,8060,36270,Audi,2000,NO,"9,917",19833,2005,N
+278,47,Indiana,500/1000,500,128501,MALE,Masters,machine-op-inspct,sleeping,not-in-family,02/02/2015,Single Vehicle Collision,Rear Collision,Major Damage,VA,21,1,NO,2,YES,58500,5850,5850,46800,Toyota,2010,NO,"10,708",2976940,2014,N
+99,28,Ohio,100/300,500,133039,MALE,MD,prof-specialty,basketball,wife,22/01/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,3,1,NO,2,YES,49900,4990,9980,34930,Dodge,1998,NO,"11,087",1097572,2002,N
+116,31,Indiana,250/500,500,119483,FEMALE,MD,prof-specialty,camping,husband,20/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,23,1,NO,0,NO,44200,4420,8840,30940,Suburu,1997,NO,"9,957",1155002,2014,N
+100,33,Ohio,250/500,500,112459,MALE,College,adm-clerical,golf,not-in-family,26/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NC,4,1,NO,1,NO,40800,6800,6800,27200,BMW,2004,NO,"9,372",937158,2003,Y
+193,40, Illinois,100/300,500,115538,FEMALE,PhD,handlers-cleaners,movies,not-in-family,28/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NY,6,1,NO,0,YES,63900,6390,6390,51120,Accura,2001,NO,"9,628",1858236,1995,N
+436,60,Indiana,250/500,500,136231,MALE,High School,prof-specialty,bungie-jumping,wife,13/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,VA,16,1,NO,0,NO,82060,14920,7460,59680,Saab,2005,NO,"11,353",4949726,2000,N
+458,61,Indiana,100/300,1000,132818,FEMALE,High School,protective-serv,bungie-jumping,other-relative,25/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,WV,18,1,NO,2,NO,56340,6260,6260,43820,Volkswagen,2003,NO,"11,068",5069220,1998,N
+290,42,Indiana,500/1000,500,98997,MALE,Masters,machine-op-inspct,kayaking,own-child,20/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,WV,10,1,NO,0,NO,48000,4800,9600,33600,Saab,2013,NO,"8,250",2392428,2008,N
+148,36, Illinois,500/1000,1000,123632,FEMALE,MD,adm-clerical,hiking,own-child,10/01/2015,Single Vehicle Collision,Side Collision,Total Loss,PA,0,1,NO,2,NO,61050,5550,11100,44400,Dodge,2009,NO,"10,303",1524795,2000,N
+257,43,Indiana,100/300,1000,97484,FEMALE,JD,transport-moving,kayaking,other-relative,26/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,VA,0,1,NO,0,YES,85320,21330,7110,56880,Nissan,2006,NO,"8,124",2087782,1999,N
+234,43,Ohio,250/500,500,125704,MALE,Associate,protective-serv,reading,own-child,01/03/2015,Single Vehicle Collision,Rear Collision,Major Damage,SC,4,1,NO,2,YES,51600,10320,5160,36120,Dodge,2011,NO,"10,475",2451228,2009,N
+266,46,Ohio,100/300,2000,157854,MALE,Associate,handlers-cleaners,chess,husband,21/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,WV,18,1,NO,1,YES,83490,7590,15180,60720,Nissan,1996,NO,"13,155",3499097,1995,N
+260,46,Ohio,100/300,2000,148257,MALE,MD,priv-house-serv,reading,husband,20/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,7,1,NO,0,NO,64080,10680,10680,42720,Toyota,2005,NO,"12,355",3212235,2014,N
+152,33,Indiana,100/300,1000,103427,FEMALE,JD,armed-forces,exercise,husband,06/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,18,1,NO,1,NO,63900,7100,7100,49700,Accura,2014,NO,"8,619",1310075,2014,N
+141,30, Illinois,250/500,1000,185178,FEMALE,High School,craft-repair,exercise,other-relative,09/02/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,13,1,NO,1,YES,61740,6860,6860,48020,Audi,2002,NO,"15,432",2175842,2007,N
+237,43,Ohio,250/500,500,91153,FEMALE,PhD,sales,basketball,husband,25/02/2015,Single Vehicle Collision,Rear Collision,Major Damage,WV,23,1,NO,0,NO,59200,0,11840,47360,Chevrolet,1998,NO,"7,596",1800272,2000,N
+285,48, Illinois,100/300,2000,110185,FEMALE,College,sales,dancing,wife,27/02/2015,Single Vehicle Collision,Side Collision,Minor Damage,PA,9,1,NO,1,YES,33480,3720,3720,26040,Nissan,2012,NO,"9,182",2616894,2014,Y
+229,41,Ohio,250/500,2000,110759,MALE,PhD,tech-support,chess,not-in-family,23/01/2015,Single Vehicle Collision,Side Collision,Major Damage,NY,23,1,NO,1,NO,62640,10440,10440,41760,Mercedes,2009,NO,"9,230",2113651,1997,N
+214,40,Ohio,100/300,1000,1648,MALE,JD,transport-moving,base-jumping,not-in-family,04/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,WV,17,1,NO,1,YES,44220,8040,4020,32160,Accura,2000,NO,137,29389,2011,N
+126,31,Ohio,250/500,1000,132826,MALE,Masters,sales,exercise,not-in-family,02/01/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,17,1,NO,1,NO,60840,13520,6760,40560,Suburu,2011,NO,"11,069",1394673,2003,Y
+205,42, Illinois,100/300,2000,13877,FEMALE,High School,priv-house-serv,skydiving,other-relative,18/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,WV,19,1,NO,2,NO,86130,15660,15660,54810,Chevrolet,1995,NO,"1,156",237065,2006,Y
+229,37,Indiana,500/1000,1000,133194,FEMALE,Masters,farming-fishing,base-jumping,not-in-family,05/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,17,1,NO,0,YES,54560,9920,9920,34720,Saab,2004,NO,"11,100",2541786,1995,Y
+257,44,Ohio,100/300,1000,128088,MALE,MD,other-service,basketball,other-relative,06/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,WV,21,1,NO,0,NO,46980,0,5220,41760,Accura,2002,NO,"10,674",2743218,2009,Y
+60,23,Ohio,500/1000,500,121536,MALE,MD,protective-serv,reading,wife,22/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,SC,9,1,YES,1,NO,56520,4710,9420,42390,Saab,2000,NO,"10,128",607680,1998,N
+160,37,Ohio,500/1000,500,137422,FEMALE,MD,craft-repair,yachting,other-relative,19/01/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,19,1,YES,1,NO,72930,6630,13260,53040,Accura,2015,NO,"11,452",1832293,1997,N
+149,37, Illinois,500/1000,500,141568,MALE,PhD,prof-specialty,yachting,own-child,12/02/2015,Single Vehicle Collision,Side Collision,Total Loss,WV,17,1,YES,0,YES,64800,10800,5400,48600,Audi,1999,NO,"11,797",1757803,2004,N
+22,26,Ohio,100/300,1000,127657,MALE,PhD,craft-repair,skydiving,not-in-family,06/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NY,3,1,YES,1,NO,78900,15780,7890,55230,Chevrolet,1995,NO,"10,638",234038,2003,Y
+11,39, Illinois,250/500,2000,147006,MALE,PhD,other-service,yachting,husband,07/01/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,22,1,YES,0,NO,65790,7310,7310,51170,Saab,2007,NO,"12,251",134756,1995,Y
+80,27, Illinois,100/300,1000,147417,FEMALE,College,tech-support,exercise,unmarried,19/02/2015,Single Vehicle Collision,Side Collision,Major Damage,WV,13,1,YES,1,YES,52800,10560,5280,36960,Saab,2004,NO,"12,285",982780,1999,N
+245,40,Indiana,500/1000,500,88508,FEMALE,Masters,armed-forces,skydiving,other-relative,06/02/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,0,1,YES,0,NO,85150,13100,13100,58950,Chevrolet,1998,NO,"7,376",1807038,2002,N
+111,27,Indiana,250/500,500,136377,FEMALE,Masters,tech-support,exercise,husband,17/01/2015,Single Vehicle Collision,Side Collision,Total Loss,VA,12,1,YES,2,NO,90970,16540,16540,57890,Accura,2009,NO,"11,365",1261487,2005,N
+328,48, Illinois,250/500,500,141143,MALE,Masters,armed-forces,bungie-jumping,own-child,16/01/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,17,1,YES,2,NO,59400,5940,11880,41580,Honda,2014,NO,"11,762",3857909,2010,N
+330,50, Illinois,500/1000,1000,97846,FEMALE,High School,sales,yachting,husband,04/02/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,19,1,YES,0,NO,49060,8920,8920,31220,Chevrolet,1995,NO,"8,154",2690765,1998,N
+245,41,Indiana,500/1000,2000,1212,MALE,Masters,exec-managerial,basketball,unmarried,28/01/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,4,1,YES,0,YES,73500,7350,14700,51450,Jeep,1999,NO,101,24745,2005,N
+99,32,Indiana,100/300,1000,105821,MALE,JD,craft-repair,golf,unmarried,10/01/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,17,1,YES,1,NO,41130,4570,4570,31990,Dodge,1999,NO,"8,818",873023,2004,N
+2,28, Illinois,250/500,1000,134056,FEMALE,JD,machine-op-inspct,golf,not-in-family,17/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NY,19,1,YES,0,YES,58140,6460,6460,45220,Saab,2008,NO,"11,171",22343,2013,Y
+233,37, Illinois,100/300,2000,160342,FEMALE,High School,sales,video-games,wife,06/02/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,17,1,YES,0,YES,80520,13420,6710,60390,Toyota,2005,NO,"13,362",3113307,2005,N
+159,37, Illinois,500/1000,1000,8944,MALE,Associate,tech-support,camping,wife,07/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,13,1,YES,2,NO,70290,7810,7810,54670,Dodge,1999,NO,745,118508,2005,N
+299,42,Ohio,100/300,2000,143733,FEMALE,Associate,craft-repair,movies,wife,24/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,13,1,YES,1,NO,70400,12800,12800,44800,BMW,2000,NO,"11,978",3581347,2002,N
+86,28,Indiana,100/300,2000,159507,MALE,PhD,transport-moving,hiking,unmarried,23/02/2015,Single Vehicle Collision,Side Collision,Minor Damage,VA,19,1,YES,0,YES,70920,11820,11820,47280,Jeep,2002,NO,"13,292",1143134,2002,N
+429,56,Ohio,250/500,1000,112789,MALE,Associate,machine-op-inspct,skydiving,own-child,28/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,WV,0,1,YES,2,YES,39480,6580,6580,26320,Suburu,2002,NO,"9,399",4032207,2013,Y
+250,43,Ohio,500/1000,1000,124384,FEMALE,JD,tech-support,polo,own-child,30/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,VA,22,1,YES,1,NO,64900,12980,12980,38940,Volkswagen,2011,NO,"10,365",2591333,2007,N
+48,35, Illinois,100/300,500,109003,FEMALE,JD,exec-managerial,golf,unmarried,30/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,WV,1,1,YES,0,NO,48400,9680,4840,33880,Saab,2005,NO,"9,084",436012,2007,N
+252,46,Indiana,100/300,1000,124202,MALE,Masters,adm-clerical,dancing,wife,08/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,VA,17,1,YES,0,YES,74900,14980,7490,52430,Jeep,2003,NO,"10,350",2608242,2015,N
+186,37,Ohio,250/500,2000,1628,FEMALE,JD,priv-house-serv,exercise,unmarried,28/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,22,1,YES,1,YES,55600,11120,5560,38920,Jeep,2009,NO,136,25234,2002,N
+467,58,Indiana,500/1000,2000,9774,MALE,Masters,transport-moving,bungie-jumping,own-child,03/01/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,2,1,YES,2,NO,55700,5570,11140,38990,Nissan,2014,NO,815,380372,2011,Y
+163,37,Indiana,250/500,500,117895,FEMALE,JD,priv-house-serv,dancing,own-child,16/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,NY,20,1,YES,2,YES,49400,4940,9880,34580,Jeep,2005,NO,"9,825",1601407,1995,N
+352,53, Illinois,250/500,500,179316,MALE,Associate,tech-support,exercise,wife,15/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NC,23,1,YES,2,NO,68750,12500,6250,50000,Chevrolet,2009,NO,"14,943",5259936,2004,Y
+410,54, Illinois,100/300,2000,71403,MALE,MD,protective-serv,board-games,own-child,16/02/2015,Single Vehicle Collision,Side Collision,Minor Damage,WV,0,1,YES,0,NO,59520,9920,9920,39680,Honda,2001,NO,"5,950",2439603,2007,N
+304,49,Indiana,100/300,1000,152586,FEMALE,PhD,craft-repair,camping,own-child,21/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NC,2,1,YES,1,YES,73370,13340,6670,53360,Saab,2013,NO,"12,716",3865512,2009,N
+202,38, Illinois,100/300,2000,113274,FEMALE,Associate,armed-forces,exercise,husband,04/02/2015,Single Vehicle Collision,Side Collision,Major Damage,WV,12,1,YES,1,NO,77440,7040,14080,56320,Nissan,2005,NO,"9,440",1906779,2005,N
+337,53,Ohio,100/300,500,120586,MALE,Associate,armed-forces,basketball,wife,01/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,8,1,YES,0,NO,86400,14400,7200,64800,Accura,2001,NO,"10,049",3386457,2001,N
+56,36,Indiana,100/300,500,153307,MALE,JD,farming-fishing,exercise,own-child,20/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NC,13,1,YES,1,YES,58500,0,6500,52000,Ford,2001,NO,"12,776",715433,2006,Y
+422,60,Indiana,100/300,1000,155552,FEMALE,MD,machine-op-inspct,hiking,own-child,14/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NC,11,1,YES,1,NO,85250,15500,7750,62000,Mercedes,1999,NO,"12,963",5470245,2013,Y
+162,35, Illinois,500/1000,2000,112469,FEMALE,Masters,handlers-cleaners,bungie-jumping,husband,20/02/2015,Single Vehicle Collision,Side Collision,Major Damage,WV,14,1,YES,0,YES,54340,9880,4940,39520,Toyota,2001,NO,"9,372",1518332,1999,N
+198,34,Ohio,250/500,1000,157641,MALE,Associate,handlers-cleaners,kayaking,other-relative,25/02/2015,Single Vehicle Collision,Side Collision,Major Damage,WV,18,1,YES,1,YES,95000,9500,9500,76000,Ford,2001,NO,"13,137",2601077,2007,N
+204,40,Ohio,250/500,2000,176702,MALE,JD,machine-op-inspct,hiking,husband,27/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,SC,7,1,YES,1,NO,46200,4200,8400,33600,Audi,1997,NO,"14,725",3003934,2007,N
+254,41, Illinois,250/500,500,158127,FEMALE,PhD,handlers-cleaners,skydiving,own-child,07/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,8,1,YES,2,NO,63470,5770,11540,46160,BMW,1999,NO,"13,177",3347022,2004,N
+263,43,Indiana,500/1000,1000,129404,FEMALE,Masters,handlers-cleaners,movies,not-in-family,08/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,17,1,YES,2,YES,79320,13220,6610,59490,Nissan,1997,NO,"10,784",2836104,2013,N
+259,44,Ohio,250/500,2000,165579,FEMALE,Masters,exec-managerial,exercise,husband,15/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,8,1,YES,0,YES,105820,16280,16280,73260,Audi,2002,NO,"13,798",3573747,2008,N
+437,58,Indiana,500/1000,2000,119204,MALE,Associate,craft-repair,dancing,own-child,19/01/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,23,1,YES,0,NO,55800,11160,11160,33480,Dodge,2004,NO,"9,934",4341012,2014,N
+96,26,Ohio,250/500,2000,150904,FEMALE,Associate,prof-specialty,bungie-jumping,husband,23/02/2015,Single Vehicle Collision,Front Collision,Total Loss,SC,9,1,YES,2,NO,78320,7120,14240,56960,Saab,2007,NO,"12,575",1207232,2002,N
+173,36,Ohio,250/500,1000,127463,MALE,College,machine-op-inspct,basketball,unmarried,08/02/2015,Single Vehicle Collision,Rear Collision,Total Loss,SC,22,1,YES,2,NO,52030,9460,9460,33110,Accura,1995,NO,"10,622",1837592,2000,Y
+446,61, Illinois,100/300,1000,123279,FEMALE,High School,adm-clerical,reading,unmarried,07/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,VA,3,1,YES,2,YES,70500,7050,14100,49350,Suburu,2007,NO,"10,273",4581870,1997,N
+124,32,Indiana,100/300,1000,131071,FEMALE,Masters,farming-fishing,kayaking,wife,25/02/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,23,1,YES,0,NO,57700,5770,5770,46160,Toyota,2003,NO,"10,923",1354400,2000,Y
+136,33,Ohio,250/500,1000,85514,FEMALE,PhD,craft-repair,paintball,not-in-family,04/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NC,23,1,YES,0,YES,30700,3070,6140,21490,Toyota,2015,NO,"7,126",969159,2006,Y
+45,37,Indiana,250/500,1000,111423,MALE,College,prof-specialty,dancing,wife,01/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,1,1,YES,0,YES,52200,10440,5220,36540,Nissan,2005,NO,"9,285",417836,2010,N
+166,37,Indiana,250/500,500,151854,FEMALE,MD,craft-repair,kayaking,not-in-family,25/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,PA,10,1,YES,1,NO,58300,10600,10600,37100,Ford,2001,NO,"12,655",2100647,2015,Y
+228,39,Indiana,500/1000,500,138862,FEMALE,JD,sales,reading,husband,19/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NC,10,1,YES,1,YES,59490,6610,6610,46270,Mercedes,1995,NO,"11,572",2638378,2001,N
+381,55,Ohio,500/1000,500,145999,FEMALE,MD,other-service,chess,wife,12/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,SC,8,1,YES,1,YES,60600,12120,6060,42420,Accura,2011,NO,"12,167",4635468,2007,N
+145,34,Indiana,100/300,1000,114248,FEMALE,JD,priv-house-serv,sleeping,other-relative,13/01/2015,Single Vehicle Collision,Side Collision,Total Loss,NC,18,1,YES,2,NO,52250,9500,4750,38000,Suburu,2012,NO,"9,521",1380497,2001,N
+1,33,Ohio,250/500,2000,139163,MALE,Associate,sales,video-games,husband,26/02/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,23,1,YES,0,NO,69400,6940,6940,55520,Mercedes,2000,NO,"11,597",11597,1997,Y
+5,21,Indiana,250/500,500,91541,FEMALE,High School,exec-managerial,sleeping,own-child,11/02/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,23,1,YES,0,NO,40500,4050,4050,32400,Nissan,1998,NO,"7,628",38142,2002,N
+142,30,Indiana,500/1000,500,141276,MALE,PhD,armed-forces,basketball,wife,10/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,WV,22,1,YES,2,NO,67320,11220,11220,44880,Volkswagen,1996,NO,"11,773",1671766,2011,Y
+90,31,Ohio,250/500,2000,95127,FEMALE,PhD,other-service,hiking,not-in-family,06/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,SC,2,1,YES,1,YES,75790,13780,6890,55120,Accura,2007,NO,"7,927",713453,2015,N
+266,42, Illinois,500/1000,1000,76367,MALE,Associate,prof-specialty,movies,own-child,04/02/2015,Single Vehicle Collision,Side Collision,Total Loss,SC,12,1,YES,1,YES,70830,7870,7870,55090,Jeep,2005,NO,"6,364",1692802,2010,N
+190,38,Ohio,250/500,500,124603,MALE,JD,craft-repair,movies,unmarried,28/01/2015,Single Vehicle Collision,Side Collision,Total Loss,NY,14,1,YES,0,NO,45100,9020,4510,31570,Nissan,2013,NO,"10,384",1972881,2000,N
+213,35,Ohio,250/500,500,87146,MALE,MD,tech-support,movies,husband,22/01/2015,Single Vehicle Collision,Side Collision,Total Loss,SC,13,1,YES,2,YES,74140,13480,6740,53920,Ford,2007,NO,"7,262",1546842,2008,Y
+245,40, Illinois,500/1000,1000,136145,MALE,PhD,handlers-cleaners,camping,unmarried,15/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,OH,12,1,YES,0,YES,82170,7470,7470,67230,Suburu,1999,NO,"11,345",2779627,1999,Y
+163,36,Indiana,250/500,1000,150321,MALE,MD,other-service,cross-fit,husband,28/02/2015,Single Vehicle Collision,Side Collision,Total Loss,WV,1,1,YES,2,NO,51390,5710,11420,34260,Toyota,2013,NO,"12,527",2041860,1995,N
+295,46,Indiana,100/300,500,167288,FEMALE,High School,armed-forces,dancing,wife,17/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NY,5,1,YES,1,NO,60700,12140,6070,42490,Honda,1997,NO,"13,941",4112497,2011,N
+328,48,Ohio,250/500,1000,140691,MALE,MD,craft-repair,sleeping,husband,25/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,5,1,YES,1,YES,71610,6510,13020,52080,Saab,2004,YES,"11,724",3845554,2013,N
+180,38,Ohio,250/500,2000,130113,FEMALE,College,machine-op-inspct,board-games,not-in-family,15/01/2015,Single Vehicle Collision,Rear Collision,Total Loss,SC,12,1,NO,0,YES,46200,4200,8400,33600,Dodge,2003,YES,"10,843",1951695,2001,N
+147,33,Ohio,100/300,1000,133415,MALE,High School,craft-repair,reading,not-in-family,24/01/2015,Single Vehicle Collision,Front Collision,Major Damage,WV,15,1,YES,2,YES,53100,10620,5310,37170,Mercedes,1995,YES,"11,118",1634334,1998,N
+107,31,Indiana,250/500,500,123922,FEMALE,High School,tech-support,paintball,not-in-family,30/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,SC,12,1,YES,0,NO,89700,13800,13800,62100,Audi,2009,YES,"10,327",1104971,2006,Y
+222,41,Ohio,100/300,2000,105553,FEMALE,MD,armed-forces,cross-fit,not-in-family,08/02/2015,Single Vehicle Collision,Front Collision,Total Loss,WV,7,1,NO,0,NO,61290,6810,6810,47670,Honda,1995,YES,"8,796",1952731,2000,Y
+325,47,Indiana,500/1000,1000,169027,FEMALE,Associate,protective-serv,hiking,not-in-family,14/01/2015,Single Vehicle Collision,Side Collision,Major Damage,VA,11,1,YES,0,NO,72930,6630,6630,59670,Dodge,2006,YES,"14,086",4577815,1999,N
+206,36, Illinois,500/1000,500,162545,FEMALE,MD,other-service,video-games,other-relative,23/01/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,11,1,NO,2,NO,76560,12760,12760,51040,Ford,2008,YES,"13,545",2790356,2012,N
+274,43,Ohio,100/300,2000,135231,MALE,College,farming-fishing,basketball,wife,06/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,22,1,YES,0,YES,63840,10640,10640,42560,BMW,2006,YES,"11,269",3087775,2013,N
+375,50,Ohio,100/300,1000,127539,MALE,Associate,sales,bungie-jumping,other-relative,12/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,16,1,YES,2,NO,37280,0,0,37280,Audi,1996,YES,"10,628",3985594,2002,N
+112,30,Ohio,500/1000,1000,116654,FEMALE,Masters,prof-specialty,sleeping,not-in-family,21/01/2015,Single Vehicle Collision,Front Collision,Major Damage,SC,3,1,YES,2,NO,107900,10790,21580,75530,Dodge,1997,YES,"9,721",1088771,2006,N
+125,35,Ohio,500/1000,500,105483,MALE,JD,tech-support,cross-fit,husband,25/02/2015,Single Vehicle Collision,Front Collision,Total Loss,NY,17,1,YES,2,NO,88660,8060,16120,64480,Mercedes,2007,YES,"8,790",1098781,1996,Y
+246,44,Ohio,250/500,2000,164918,MALE,College,farming-fishing,base-jumping,other-relative,22/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,18,1,YES,1,YES,61380,11160,5580,44640,Honda,2009,YES,"13,743",3380819,2015,N
+177,38, Illinois,100/300,2000,154019,FEMALE,College,adm-clerical,skydiving,other-relative,01/02/2015,Single Vehicle Collision,Front Collision,Major Damage,VA,20,1,YES,2,NO,73700,7370,7370,58960,Chevrolet,2001,YES,"12,835",2271780,2010,N
+371,51,Indiana,500/1000,1000,153247,FEMALE,Associate,tech-support,golf,other-relative,19/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NY,7,1,YES,0,YES,75400,7540,15080,52780,Dodge,2012,YES,"12,771",4737886,1999,N
+279,43,Ohio,500/1000,2000,128125,MALE,Associate,machine-op-inspct,cross-fit,other-relative,17/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,13,1,YES,0,NO,57690,6410,12820,38460,Mercedes,2010,YES,"10,677",2978906,1995,N
+88,25,Indiana,250/500,1000,1194,FEMALE,JD,handlers-cleaners,movies,husband,13/02/2015,Single Vehicle Collision,Rear Collision,Major Damage,SC,6,1,YES,1,YES,66780,7420,7420,51940,Ford,2013,YES,100,8756,2008,N
+85,30,Indiana,500/1000,1000,145442,MALE,Associate,protective-serv,reading,other-relative,31/01/2015,Single Vehicle Collision,Side Collision,Major Damage,NY,19,1,YES,0,YES,74280,12380,12380,49520,Suburu,2006,YES,"12,120",1030214,2001,N
+78,31,Indiana,250/500,1000,155464,MALE,PhD,protective-serv,board-games,own-child,03/02/2015,Single Vehicle Collision,Front Collision,Major Damage,WV,21,1,NO,1,NO,55660,5060,10120,40480,Honda,2009,YES,"12,955",1010516,2013,N
+289,46, Illinois,250/500,2000,120907,MALE,JD,armed-forces,chess,unmarried,28/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NC,18,1,YES,0,YES,56430,6270,6270,43890,BMW,1995,YES,"10,076",2911844,2012,Y
+437,60,Ohio,500/1000,1000,126964,FEMALE,College,armed-forces,cross-fit,unmarried,14/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,SC,10,1,NO,1,NO,84480,7680,15360,61440,Chevrolet,2012,YES,"10,580",4623606,2011,N
+310,48,Ohio,100/300,1000,84516,FEMALE,Masters,priv-house-serv,base-jumping,other-relative,25/02/2015,Single Vehicle Collision,Front Collision,Major Damage,NC,21,1,YES,1,NO,55170,6130,6130,42910,Audi,2005,YES,"7,043",2183330,2002,Y
+271,44,Ohio,250/500,500,134071,FEMALE,High School,tech-support,base-jumping,other-relative,14/02/2015,Single Vehicle Collision,Rear Collision,Minor Damage,SC,16,1,NO,2,NO,76230,6930,13860,55440,Volkswagen,1997,YES,"11,173",3027770,1996,Y
+67,29, Illinois,250/500,1000,186143,MALE,High School,adm-clerical,polo,husband,15/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,SC,16,1,NO,0,YES,63800,6380,6380,51040,Saab,1998,YES,"15,512",1039298,2014,N
+317,46,Indiana,250/500,1000,101278,MALE,MD,sales,yachting,other-relative,26/01/2015,Single Vehicle Collision,Front Collision,Major Damage,WV,18,1,NO,2,NO,104610,19020,19020,66570,Mercedes,1999,YES,"8,440",2675427,2007,Y
+65,23,Ohio,250/500,1000,109995,FEMALE,College,sales,dancing,wife,15/01/2015,Single Vehicle Collision,Side Collision,Major Damage,NY,14,1,NO,1,YES,52400,6550,6550,39300,Accura,2005,YES,"9,166",595806,2011,Y
+364,51, Illinois,100/300,500,126835,MALE,Masters,transport-moving,board-games,wife,10/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NY,16,1,YES,2,NO,77330,14060,14060,49210,Volkswagen,2014,YES,"10,570",3847328,2014,N
+272,41,Ohio,250/500,2000,94573,MALE,MD,protective-serv,chess,wife,04/02/2015,Single Vehicle Collision,Front Collision,Minor Damage,NY,23,1,NO,0,NO,84100,16820,8410,58870,Ford,2009,YES,"7,881",2143655,2009,N
+402,54,Ohio,250/500,2000,128509,MALE,JD,farming-fishing,board-games,not-in-family,28/02/2015,Single Vehicle Collision,Rear Collision,Major Damage,NY,19,1,NO,0,YES,67770,7530,15060,45180,Mercedes,2013,YES,"10,709",4305052,2006,Y
+102,32,Ohio,100/300,500,153707,MALE,JD,tech-support,chess,wife,04/02/2015,Single Vehicle Collision,Side Collision,Total Loss,OH,11,1,NO,1,NO,47400,9480,4740,33180,Chevrolet,2004,YES,"12,809",1306510,1997,N
+239,39,Indiana,250/500,2000,62508,FEMALE,JD,protective-serv,hiking,wife,03/01/2015,Single Vehicle Collision,Front Collision,Major Damage,SC,10,1,NO,2,YES,87890,15980,7990,63920,BMW,2014,YES,"5,209",1244951,2013,Y
+142,29,Ohio,100/300,2000,130768,FEMALE,MD,craft-repair,dancing,husband,29/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NY,10,1,YES,1,NO,54360,4530,9060,40770,Mercedes,1995,YES,"10,897",1547421,1996,Y
+183,38, Illinois,250/500,500,154368,FEMALE,Masters,prof-specialty,paintball,not-in-family,24/01/2015,Single Vehicle Collision,Side Collision,Major Damage,NC,17,1,NO,0,YES,51920,9440,4720,37760,Audi,2001,YES,"12,864",2354112,2006,N
+313,47,Indiana,250/500,1000,155617,MALE,College,prof-specialty,reading,wife,07/02/2015,Single Vehicle Collision,Front Collision,Major Damage,SC,20,1,YES,1,NO,40260,3660,7320,29280,Accura,1996,YES,"12,968",4059010,2013,N
+274,45,Indiana,250/500,1000,135353,FEMALE,JD,tech-support,cross-fit,unmarried,14/01/2015,Single Vehicle Collision,Side Collision,Minor Damage,NY,13,1,YES,0,NO,58500,11700,0,46800,Accura,1995,YES,"11,279",3090560,2013,N
+234,44,Indiana,500/1000,500,178067,MALE,Associate,other-service,exercise,other-relative,19/02/2015,Single Vehicle Collision,Side Collision,Major Damage,NC,3,1,NO,1,NO,70200,7020,7020,56160,Ford,2012,YES,"14,839",3472307,1999,N
+58,23,Ohio,500/1000,2000,147144,MALE,High School,transport-moving,reading,own-child,20/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NC,8,1,NO,2,NO,50380,4580,9160,36640,Chevrolet,2007,YES,"12,262",711196,2014,N
+269,41,Ohio,100/300,2000,142221,FEMALE,Associate,handlers-cleaners,polo,unmarried,16/01/2015,Single Vehicle Collision,Side Collision,Major Damage,WV,21,1,YES,2,NO,85900,17180,17180,51540,Suburu,2005,YES,"11,852",3188121,1997,N
+39,22,Indiana,500/1000,500,117321,MALE,JD,farming-fishing,polo,not-in-family,14/02/2015,Single Vehicle Collision,Rear Collision,Major Damage,SC,14,1,YES,0,YES,86130,15660,7830,62640,Suburu,2009,YES,"9,777",381293,2002,N
+119,34, Illinois,250/500,500,129918,FEMALE,College,tech-support,hiking,wife,08/01/2015,Single Vehicle Collision,Front Collision,Major Damage,OH,7,1,YES,2,YES,45540,8280,8280,28980,Honda,1998,YES,"10,827",1288354,1997,Y
+123,29,Indiana,250/500,500,120963,FEMALE,Masters,machine-op-inspct,chess,not-in-family,14/01/2015,Single Vehicle Collision,Rear Collision,Minor Damage,NC,17,1,YES,1,YES,73260,16280,0,56980,Volkswagen,2014,YES,"10,080",1239871,2011,N
+404,56,Indiana,250/500,1000,136116,FEMALE,Masters,transport-moving,cross-fit,not-in-family,15/01/2015,Single Vehicle Collision,Front Collision,Minor Damage,VA,23,1,NO,2,YES,53100,5310,5310,42480,Accura,2005,YES,"11,343",4582572,2012,N
+197,41,Ohio,500/1000,1000,132478,FEMALE,PhD,prof-specialty,basketball,not-in-family,10/01/2015,Single Vehicle Collision,Front Collision,Major Damage,NC,6,1,NO,2,YES,76400,15280,7640,53480,Volkswagen,1997,YES,"11,040",2174847,2012,Y
+427,60,Indiana,100/300,1000,117861,MALE,MD,craft-repair,board-games,own-child,20/02/2015,Single Vehicle Collision,Side Collision,Major Damage,NY,23,1,YES,1,YES,90860,12980,19470,58410,Volkswagen,2004,YES,"9,822",4193887,1999,N
+282,43,Ohio,250/500,500,145227,MALE,MD,farming-fishing,video-games,not-in-family,08/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,19,1,NO,1,NO,46800,4680,9360,32760,Audi,2007,YES,"12,102",3412835,2015,N
+195,37, Illinois,100/300,1000,140652,MALE,MD,tech-support,base-jumping,unmarried,28/01/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,12,1,NO,0,NO,44200,4420,4420,35360,Jeep,2002,YES,"11,721",2285595,2011,N
+121,34,Indiana,500/1000,500,128542,MALE,MD,priv-house-serv,video-games,wife,21/01/2015,Single Vehicle Collision,Front Collision,Major Damage,VA,11,1,NO,1,NO,67300,6730,6730,53840,Dodge,2000,YES,"10,712",1296132,2006,N
+156,32, Illinois,250/500,500,147948,MALE,Masters,prof-specialty,bungie-jumping,unmarried,13/01/2015,Single Vehicle Collision,Front Collision,Major Damage,NY,15,1,YES,1,YES,74690,6790,13580,54320,Dodge,2008,YES,"12,329",1923324,2007,Y
+136,32,Indiana,100/300,500,116962,FEMALE,JD,sales,yachting,not-in-family,04/02/2015,Single Vehicle Collision,Side Collision,Major Damage,SC,6,1,YES,0,NO,55000,10000,10000,35000,Toyota,2008,YES,"9,747",1325569,2001,N
+179,32,Ohio,100/300,1000,143342,FEMALE,Associate,protective-serv,base-jumping,own-child,22/01/2015,Single Vehicle Collision,Rear Collision,Major Damage,NC,4,1,YES,1,NO,54200,5420,10840,37940,Nissan,2014,YES,"11,945",2138185,2014,N
+256,39,Ohio,250/500,1000,13511,FEMALE,PhD,tech-support,bungie-jumping,unmarried,02/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,19,3,NO,0,NO,64100,6410,6410,51280,Saab,2003,YES,"1,126",288235,2002,N
+370,55, Illinois,100/300,2000,97218,MALE,High School,prof-specialty,paintball,other-relative,11/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,20,3,NO,0,YES,71520,17880,5960,47680,Suburu,2000,YES,"8,102",2997555,2011,N
+8,35,Ohio,100/300,2000,126692,MALE,Masters,sales,polo,own-child,09/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,OH,16,3,NO,1,YES,71500,16500,11000,44000,Ford,2006,YES,"10,558",84461,1998,N
+355,47,Ohio,500/1000,2000,12737,MALE,College,other-service,kayaking,husband,10/01/2015,Multi-vehicle Collision,Front Collision,Major Damage,WV,19,3,NO,2,NO,62800,6280,6280,50240,Audi,2003,YES,"1,061",376803,2003,N
+215,42,Ohio,500/1000,500,184881,MALE,JD,transport-moving,video-games,own-child,06/02/2015,Multi-vehicle Collision,Front Collision,Major Damage,WV,20,3,YES,2,YES,68520,11420,5710,51390,Suburu,2003,YES,"15,407",3312451,1998,N
+295,42,Ohio,250/500,2000,164173,MALE,PhD,sales,chess,not-in-family,20/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,VA,16,3,NO,0,NO,59130,6570,6570,45990,Ford,2006,YES,"13,681",4035920,2010,N
+254,39,Indiana,100/300,500,136287,FEMALE,MD,exec-managerial,chess,other-relative,22/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,6,3,YES,2,NO,82320,13720,6860,61740,Dodge,1995,YES,"11,357",2884742,2006,N
+87,31,Indiana,500/1000,1000,107407,FEMALE,Masters,sales,chess,husband,27/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NY,16,3,NO,0,YES,60940,5540,11080,44320,Nissan,2006,YES,"8,951",778701,1997,N
+104,32,Indiana,250/500,500,115803,MALE,High School,exec-managerial,kayaking,own-child,08/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,23,3,YES,1,YES,63570,9780,9780,44010,Volkswagen,2006,YES,"9,650",1003626,2009,N
+107,26, Illinois,500/1000,2000,93214,MALE,MD,sales,cross-fit,own-child,10/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,2,3,NO,2,NO,78650,14300,7150,57200,Audi,1996,YES,"7,768",831158,2011,Y
+111,27,Ohio,250/500,500,145997,MALE,MD,sales,yachting,other-relative,27/02/2015,Multi-vehicle Collision,Side Collision,Major Damage,SC,2,3,NO,1,NO,80850,7350,14700,58800,Ford,2011,YES,"12,166",1350472,2013,N
+20,23,Ohio,500/1000,1000,171172,FEMALE,JD,tech-support,base-jumping,wife,13/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,21,3,NO,2,NO,63250,5750,11500,46000,Chevrolet,2002,YES,"14,264",285287,2007,Y
+151,37,Indiana,250/500,500,136642,FEMALE,Associate,protective-serv,cross-fit,unmarried,15/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,14,3,NO,1,YES,59100,5910,5910,47280,Nissan,1998,YES,"11,387",1719412,2009,N
+253,41,Ohio,100/300,2000,131275,FEMALE,PhD,sales,dancing,other-relative,01/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,10,3,NO,2,YES,80740,7340,14680,58720,Toyota,2014,YES,"10,940",2767715,2010,N
+290,45, Illinois,100/300,500,108503,FEMALE,JD,sales,cross-fit,wife,01/03/2015,Multi-vehicle Collision,Side Collision,Total Loss,VA,23,3,YES,2,NO,64800,12960,6480,45360,Audi,2014,YES,"9,042",2622156,2003,Y
+451,61,Indiana,250/500,2000,161865,FEMALE,Associate,transport-moving,polo,unmarried,04/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,OH,3,3,YES,2,YES,78100,15620,7810,54670,Chevrolet,1997,YES,"13,489",6083426,2007,N
+159,33,Indiana,100/300,2000,146276,FEMALE,College,craft-repair,skydiving,husband,24/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NY,23,3,YES,2,NO,44880,8160,4080,32640,Mercedes,2004,YES,"12,190",1938157,2008,N
+313,50,Ohio,100/300,2000,125562,MALE,MD,armed-forces,polo,unmarried,02/02/2015,Multi-vehicle Collision,Side Collision,Major Damage,OH,18,3,YES,2,YES,69000,13800,6900,48300,Ford,1995,YES,"10,464",3275076,2001,N
+168,39, Illinois,500/1000,1000,138959,FEMALE,Masters,machine-op-inspct,exercise,own-child,24/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NY,23,3,YES,1,NO,41580,3780,7560,30240,Chevrolet,2015,YES,"11,580",1945426,2012,N
+96,29,Indiana,250/500,1000,12747,MALE,College,prof-specialty,hiking,other-relative,11/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NC,15,3,YES,2,YES,55400,5540,11080,38780,Chevrolet,2004,YES,"1,062",101976,2015,N
+371,50,Indiana,250/500,1000,156933,MALE,PhD,machine-op-inspct,board-games,not-in-family,29/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,WV,2,3,NO,2,YES,84500,13000,13000,58500,Volkswagen,2011,YES,"13,078",4851845,2003,N
+175,39,Indiana,500/1000,500,135936,MALE,PhD,exec-managerial,hiking,husband,08/02/2015,Multi-vehicle Collision,Front Collision,Major Damage,SC,9,3,YES,2,YES,71610,13020,6510,52080,Toyota,2012,YES,"11,328",1982400,2006,N
+258,41, Illinois,100/300,500,104225,MALE,Masters,exec-managerial,reading,unmarried,08/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NC,0,3,NO,2,NO,81240,6770,20310,54160,Mercedes,2008,YES,"8,685",2240838,2001,Y
+335,48, Illinois,500/1000,2000,101797,FEMALE,MD,machine-op-inspct,chess,wife,19/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,21,3,NO,0,YES,35860,3260,6520,26080,BMW,2005,YES,"8,483",2841833,2006,N
+97,26,Ohio,250/500,1000,127055,MALE,Masters,protective-serv,chess,unmarried,20/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NC,10,3,YES,2,NO,84920,7720,15440,61760,Jeep,2006,YES,"10,588",1027028,2014,N
+242,44, Illinois,500/1000,2000,139689,FEMALE,College,priv-house-serv,chess,other-relative,04/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,SC,15,3,NO,1,YES,66900,6690,13380,46830,Suburu,1999,YES,"11,641",2817062,1997,N
+290,45,Ohio,100/300,1000,13113,FEMALE,Associate,machine-op-inspct,chess,wife,10/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,NY,23,3,YES,0,YES,52650,5850,5850,40950,Ford,2001,YES,"1,093",316898,2011,N
+144,37,Ohio,250/500,2000,189691,FEMALE,PhD,handlers-cleaners,sleeping,not-in-family,24/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,17,3,YES,1,NO,54400,5440,10880,38080,Chevrolet,2015,YES,"15,808",2276292,2006,N
+115,31,Ohio,500/1000,1000,105167,FEMALE,Associate,exec-managerial,bungie-jumping,not-in-family,01/03/2015,Multi-vehicle Collision,Side Collision,Major Damage,WV,18,3,YES,0,NO,34160,0,4270,29890,Audi,2005,YES,"8,764",1007850,2015,N
+175,36,Ohio,500/1000,500,118544,MALE,Masters,exec-managerial,kayaking,not-in-family,30/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NC,15,3,YES,2,YES,42680,3880,7760,31040,Accura,2006,YES,"9,879",1728767,2009,N
+134,29,Ohio,100/300,2000,141314,FEMALE,PhD,sales,board-games,own-child,22/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,7,3,NO,2,NO,34650,7700,3850,23100,Dodge,2007,NO,"11,776",1578006,1995,N
+447,61,Ohio,100/300,2000,113716,FEMALE,High School,exec-managerial,skydiving,other-relative,15/02/2015,Multi-vehicle Collision,Front Collision,Major Damage,SC,21,3,YES,1,YES,114920,17680,17680,79560,Audi,2006,NO,"9,476",4235921,2011,N
+155,35, Illinois,500/1000,1000,108834,FEMALE,Associate,adm-clerical,yachting,other-relative,24/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,NY,16,3,YES,2,NO,29790,3310,3310,23170,BMW,2008,NO,"9,070",1405773,1999,Y
+37,23, Illinois,500/1000,500,147593,FEMALE,College,prof-specialty,hiking,husband,16/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,17,3,YES,1,NO,51660,5740,5740,40180,Dodge,2010,NO,"12,299",455078,2005,N
+151,36,Ohio,250/500,2000,87063,FEMALE,MD,adm-clerical,kayaking,own-child,06/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,VA,12,3,NO,1,NO,62920,11440,5720,45760,Ford,2000,NO,"7,255",1095543,2003,N
+245,44, Illinois,500/1000,1000,11682,MALE,JD,handlers-cleaners,basketball,husband,11/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,OH,23,3,NO,0,NO,44280,7380,3690,33210,Honda,1997,NO,974,238508,2002,N
+478,64,Ohio,250/500,500,83502,FEMALE,Associate,adm-clerical,reading,unmarried,02/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,17,3,NO,1,NO,33930,0,3770,30160,BMW,1998,NO,"6,959",3326163,2015,N
+215,37,Indiana,100/300,500,163293,FEMALE,College,transport-moving,golf,not-in-family,23/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,7,3,NO,2,YES,57120,9520,4760,42840,Mercedes,2002,NO,"13,608",2925666,1999,N
+192,40, Illinois,100/300,1000,140599,FEMALE,Associate,sales,yachting,wife,01/03/2015,Multi-vehicle Collision,Side Collision,Minor Damage,VA,18,3,YES,1,YES,42930,9540,4770,28620,BMW,2005,NO,"11,717",2249584,2009,N
+120,35,Ohio,100/300,1000,142554,FEMALE,High School,transport-moving,bungie-jumping,other-relative,15/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,SC,22,3,NO,2,NO,51210,11380,5690,34140,Ford,2010,NO,"11,880",1425540,2004,Y
+270,45,Ohio,500/1000,1000,103809,FEMALE,College,handlers-cleaners,golf,husband,14/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,18,3,NO,1,YES,89400,14900,7450,67050,Suburu,1998,NO,"8,651",2335703,2009,Y
+137,31,Ohio,250/500,2000,134043,MALE,High School,exec-managerial,paintball,husband,19/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NC,6,3,NO,1,NO,50800,10160,10160,30480,Accura,2005,NO,"11,170",1530324,2006,Y
+271,42, Illinois,100/300,500,15153,FEMALE,High School,machine-op-inspct,hiking,not-in-family,19/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,21,3,NO,1,NO,93720,17040,8520,68160,Mercedes,2005,NO,"1,263",342205,2008,N
+206,39,Indiana,250/500,1000,13024,MALE,JD,craft-repair,dancing,unmarried,17/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,12,3,NO,2,YES,36300,3300,9900,23100,Ford,2013,NO,"1,085",223579,2004,N
+280,45,Indiana,250/500,1000,139767,MALE,JD,machine-op-inspct,camping,wife,22/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,0,3,YES,1,NO,84720,14120,14120,56480,Ford,1999,NO,"11,647",3261230,1998,Y
+124,32, Illinois,250/500,1000,119815,FEMALE,MD,other-service,hiking,not-in-family,21/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,VA,19,3,NO,0,YES,73560,12260,12260,49040,BMW,1995,NO,"9,985",1238088,1999,N
+122,34, Illinois,250/500,500,149506,FEMALE,Masters,prof-specialty,polo,unmarried,07/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,PA,18,3,NO,2,YES,99990,18180,18180,63630,Mercedes,2011,NO,"12,459",1519978,2009,Y
+108,29,Indiana,500/1000,1000,133792,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,23/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,4,3,NO,2,YES,61380,11160,5580,44640,Suburu,2012,NO,"11,149",1204128,2012,N
+298,45, Illinois,500/1000,1000,136229,MALE,High School,farming-fishing,yachting,unmarried,27/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,18,3,NO,0,NO,64000,12800,6400,44800,Saab,1999,NO,"11,352",3383020,1995,N
+335,50,Ohio,100/300,1000,153826,MALE,High School,sales,yachting,other-relative,24/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NY,12,3,YES,2,YES,34320,8580,4290,21450,Volkswagen,2009,NO,"12,819",4294309,1995,N
+281,43,Ohio,100/300,1000,151518,MALE,College,priv-house-serv,camping,other-relative,09/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,21,3,NO,1,NO,60190,9260,9260,41670,BMW,1999,NO,"12,627",3548047,2008,N
+377,53, Illinois,100/300,500,169363,FEMALE,MD,craft-repair,kayaking,unmarried,17/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,10,3,YES,1,NO,59040,6560,6560,45920,Saab,2015,NO,"14,114",5320821,1999,N
+208,36, Illinois,250/500,500,115349,MALE,Associate,craft-repair,base-jumping,other-relative,22/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,SC,16,3,YES,1,YES,50500,10100,5050,35350,Accura,2004,NO,"9,612",1999383,2010,N
+156,37,Ohio,100/300,500,108013,MALE,Associate,protective-serv,reading,other-relative,04/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,PA,15,3,YES,0,NO,41490,4610,4610,32270,Nissan,2001,NO,"9,001",1404169,2005,Y
+195,36,Indiana,100/300,2000,134618,FEMALE,Associate,machine-op-inspct,camping,wife,25/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,SC,14,3,YES,2,YES,68970,12540,6270,50160,Chevrolet,2007,NO,"11,218",2187543,2015,N
+296,42,Indiana,250/500,2000,121927,MALE,Associate,tech-support,paintball,husband,16/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,9,3,YES,1,NO,64080,7120,7120,49840,Saab,2012,NO,"10,161",3007533,2000,N
+32,38, Illinois,100/300,500,100677,FEMALE,College,other-service,sleeping,own-child,06/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,15,3,YES,2,YES,70900,14180,7090,49630,BMW,1997,NO,"8,390",268472,2005,N
+163,31,Indiana,100/300,1000,100463,MALE,JD,priv-house-serv,hiking,not-in-family,07/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,14,3,YES,2,NO,63910,5810,11620,46480,Suburu,1999,NO,"8,372",1364622,2005,N
+231,43, Illinois,250/500,2000,97247,MALE,College,protective-serv,reading,wife,01/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,PA,15,3,YES,2,YES,77100,7710,15420,53970,Audi,2010,NO,"8,104",1872005,2006,N
+286,47,Indiana,250/500,500,138693,MALE,High School,priv-house-serv,bungie-jumping,husband,17/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,15,3,YES,0,NO,65800,13160,6580,46060,Accura,2001,NO,"11,558",3305517,1999,N
+165,36, Illinois,250/500,2000,124787,MALE,Masters,armed-forces,golf,husband,14/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,20,3,NO,2,NO,45700,4570,4570,36560,BMW,2008,NO,"10,399",1715821,2015,Y
+142,30,Indiana,250/500,2000,161658,MALE,JD,adm-clerical,polo,husband,04/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,13,3,YES,0,YES,63600,6360,12720,44520,Dodge,2010,NO,"13,472",1912953,2009,N
+350,50,Ohio,500/1000,500,88913,FEMALE,Masters,priv-house-serv,board-games,other-relative,26/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,PA,14,3,NO,0,NO,44190,9820,4910,29460,Audi,2015,NO,"7,409",2593296,1999,N
+399,55, Illinois,500/1000,2000,99556,MALE,JD,tech-support,sleeping,not-in-family,07/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,23,3,YES,1,YES,88400,17680,8840,61880,Nissan,2010,NO,"8,296",3310237,1996,Y
+176,39,Ohio,250/500,500,136546,MALE,College,armed-forces,sleeping,unmarried,05/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,14,3,NO,2,NO,44280,4920,4920,34440,Chevrolet,2008,NO,"11,379",2002675,2010,N
+229,37, Illinois,250/500,2000,121212,FEMALE,MD,craft-repair,paintball,not-in-family,29/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,WV,14,3,YES,1,YES,68760,11460,5730,51570,Ford,1995,NO,"10,101",2313129,1999,N
+396,57,Indiana,100/300,1000,136639,MALE,High School,protective-serv,exercise,other-relative,30/01/2015,Multi-vehicle Collision,Front Collision,Major Damage,NC,22,3,YES,2,NO,52560,11680,5840,35040,Saab,1995,NO,"11,387",4509087,2015,N
+115,30,Ohio,500/1000,500,175721,MALE,High School,prof-specialty,base-jumping,wife,02/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,12,3,NO,1,YES,49140,5460,5460,38220,Ford,2007,NO,"14,643",1683993,2001,Y
+160,36,Ohio,100/300,1000,111858,FEMALE,High School,prof-specialty,board-games,husband,22/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,5,3,NO,2,NO,51700,5170,10340,36190,Saab,2003,NO,"9,322",1491440,2001,N
+247,44,Ohio,250/500,2000,110151,FEMALE,College,farming-fishing,camping,not-in-family,11/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,22,3,NO,2,NO,69480,11580,11580,46320,Chevrolet,2008,NO,"9,179",2267275,2012,N
+303,50,Ohio,100/300,500,79315,MALE,MD,tech-support,board-games,own-child,14/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,17,3,NO,0,NO,81960,13660,13660,54640,Dodge,2008,NO,"6,610",2002704,2014,N
+264,43, Illinois,500/1000,2000,135333,MALE,Associate,adm-clerical,video-games,not-in-family,12/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,WV,9,3,YES,2,NO,95150,17300,17300,60550,Ford,2007,NO,"11,278",2977326,2012,Y
+218,41, Illinois,100/300,500,91422,MALE,JD,prof-specialty,golf,wife,22/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,14,3,NO,2,NO,84590,15380,7690,61520,Saab,2013,NO,"7,619",1660833,2008,N
+126,34,Indiana,100/300,2000,107822,FEMALE,Masters,transport-moving,camping,wife,23/02/2015,Multi-vehicle Collision,Side Collision,Major Damage,SC,2,3,NO,0,YES,58410,10620,5310,42480,Chevrolet,2007,NO,"8,985",1132131,2010,Y
+35,35, Illinois,100/300,2000,111742,FEMALE,PhD,protective-serv,kayaking,not-in-family,14/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NC,23,3,NO,2,NO,53190,5910,11820,35460,Volkswagen,1996,NO,"9,312",325914,2009,N
+195,38, Illinois,500/1000,2000,129493,MALE,MD,tech-support,video-games,unmarried,14/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,WV,12,3,YES,1,NO,64620,7180,0,57440,Dodge,2003,NO,"10,791",2104261,2001,N
+360,51, Illinois,250/500,1000,115212,MALE,PhD,armed-forces,hiking,not-in-family,05/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,15,3,NO,2,YES,90480,15080,15080,60320,BMW,2000,NO,"9,601",3456360,2009,Y
+146,36,Ohio,500/1000,2000,123396,FEMALE,Masters,other-service,golf,other-relative,05/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,NC,16,3,NO,1,NO,55900,5590,5590,44720,Nissan,2015,NO,"10,283",1501318,2011,Y
+264,44, Illinois,100/300,500,104706,MALE,College,exec-managerial,sleeping,wife,13/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,20,3,NO,0,NO,69850,12700,6350,50800,Ford,1999,NO,"8,726",2303532,1998,N
+298,49,Ohio,250/500,500,86292,MALE,MD,machine-op-inspct,camping,wife,17/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,NY,16,3,NO,0,NO,69480,11580,11580,46320,Saab,2007,NO,"7,191",2142918,2004,Y
+126,30, Illinois,500/1000,2000,91613,MALE,College,sales,golf,unmarried,07/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,16,3,YES,2,NO,74160,6180,12360,55620,Mercedes,2002,NO,"7,634",961937,2002,Y
+196,41, Illinois,250/500,2000,180076,MALE,JD,protective-serv,camping,other-relative,14/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,0,3,NO,1,NO,47800,4780,4780,38240,Jeep,2009,NO,"15,006",2941241,1995,N
+85,30,Ohio,100/300,1000,79635,FEMALE,MD,craft-repair,video-games,own-child,20/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,9,3,YES,2,YES,58960,5360,10720,42880,Ford,2004,NO,"6,636",564081,2004,N
+316,45, Illinois,100/300,2000,129074,FEMALE,High School,prof-specialty,kayaking,husband,12/02/2015,Multi-vehicle Collision,Side Collision,Major Damage,VA,6,3,NO,2,YES,78870,7170,14340,57360,Suburu,2013,NO,"10,756",3398949,2010,Y
+169,38, Illinois,100/300,1000,155594,MALE,PhD,craft-repair,skydiving,own-child,25/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,VA,12,3,NO,1,YES,79080,6590,13180,59310,Mercedes,2012,NO,"12,966",2191282,2014,N
+259,42,Ohio,100/300,2000,117053,FEMALE,PhD,armed-forces,sleeping,wife,12/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,WV,17,3,NO,1,YES,62590,5690,11380,45520,Nissan,2006,NO,"9,754",2526394,1995,Y
+440,55, Illinois,250/500,500,127562,FEMALE,Associate,priv-house-serv,reading,other-relative,23/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NY,18,3,YES,2,NO,61400,6140,6140,49120,Nissan,1995,NO,"10,630",4677273,2014,N
+93,31, Illinois,100/300,2000,101718,FEMALE,MD,prof-specialty,paintball,husband,17/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NC,21,3,YES,1,NO,48070,8740,8740,30590,Saab,2014,NO,"8,477",788315,2013,Y
+37,25,Ohio,100/300,1000,122117,FEMALE,Masters,protective-serv,golf,not-in-family,24/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,4,3,YES,0,YES,51030,5670,11340,34020,Suburu,1996,NO,"10,176",376527,2013,Y
+204,40, Illinois,100/300,500,12562,FEMALE,JD,sales,hiking,not-in-family,07/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,10,3,YES,1,YES,41700,8340,8340,25020,Saab,2013,NO,"1,047",213554,2001,N
+294,49,Indiana,500/1000,500,113543,MALE,Masters,farming-fishing,bungie-jumping,own-child,04/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,23,3,YES,1,YES,42900,3900,3900,35100,Chevrolet,2010,NO,"9,462",2781804,2010,N
+292,42,Indiana,250/500,1000,158822,MALE,JD,machine-op-inspct,camping,other-relative,15/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,WV,15,3,YES,1,NO,84600,16920,8460,59220,Chevrolet,2007,NO,"13,235",3864669,1999,N
+158,33,Ohio,100/300,1000,174464,MALE,JD,prof-specialty,movies,unmarried,07/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,WV,4,3,NO,0,NO,36400,3640,7280,25480,Volkswagen,1998,NO,"14,539",2297109,2006,Y
+241,39,Ohio,250/500,1000,126056,FEMALE,JD,adm-clerical,paintball,own-child,22/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,20,3,NO,0,YES,37520,4690,4690,28140,Jeep,2010,NO,"10,505",2531625,2009,N
+160,38,Ohio,250/500,500,173356,MALE,High School,sales,sleeping,wife,09/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,SC,13,3,NO,2,YES,66780,7420,14840,44520,Mercedes,1996,NO,"14,446",2311413,2001,N
+303,46,Indiana,100/300,1000,70914,MALE,Masters,machine-op-inspct,kayaking,husband,12/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,3,3,NO,1,NO,54890,9980,4990,39920,Toyota,2006,NO,"5,910",1790579,2007,N
+75,27,Indiana,250/500,1000,120275,MALE,High School,handlers-cleaners,board-games,not-in-family,21/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,SC,23,3,NO,0,YES,79560,6630,13260,59670,Volkswagen,2003,NO,"10,023",751719,2003,N
+362,55,Ohio,100/300,1000,109799,FEMALE,JD,other-service,base-jumping,unmarried,17/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,0,3,NO,0,NO,39690,0,0,39690,Suburu,1998,NO,"9,150",3312270,2012,N
+249,43,Ohio,100/300,2000,114858,FEMALE,MD,adm-clerical,golf,not-in-family,16/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,4,3,YES,2,YES,57100,5710,5710,45680,Honda,2014,NO,"9,572",2383304,2010,Y
+103,27,Indiana,100/300,1000,153733,FEMALE,College,handlers-cleaners,board-games,husband,20/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,11,3,YES,1,NO,77700,7770,15540,54390,Jeep,2008,NO,"12,811",1319542,2002,N
+109,29,Ohio,100/300,2000,100728,FEMALE,High School,adm-clerical,movies,husband,21/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NY,17,3,NO,1,YES,91080,16560,16560,57960,Jeep,1995,NO,"8,394",914946,1997,N
+446,57,Indiana,100/300,2000,137321,MALE,College,adm-clerical,sleeping,unmarried,14/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,SC,10,3,NO,0,NO,62800,6280,12560,43960,Jeep,2012,NO,"11,443",5103764,2008,N
+172,33, Illinois,100/300,1000,145996,FEMALE,High School,adm-clerical,reading,wife,07/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,15,3,NO,0,NO,41690,7580,7580,26530,Saab,1999,NO,"12,166",2092609,2012,N
+434,57,Ohio,500/1000,2000,142295,MALE,JD,transport-moving,bungie-jumping,husband,17/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,15,3,NO,1,NO,66240,11040,11040,44160,Nissan,2003,NO,"11,858",5146336,2004,Y
+61,25,Indiana,100/300,2000,98806,FEMALE,Masters,other-service,dancing,not-in-family,05/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,1,3,YES,1,NO,32320,4040,4040,24240,Dodge,2000,NO,"8,234",502264,2011,Y
+32,29,Ohio,100/300,500,144698,MALE,MD,adm-clerical,sleeping,own-child,11/02/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NY,11,3,YES,2,NO,57970,10540,5270,42160,Saab,2006,NO,"12,058",385861,1997,N
+148,30,Ohio,100/300,500,147124,FEMALE,Masters,farming-fishing,camping,own-child,15/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NC,4,3,NO,2,NO,32480,4060,4060,24360,Dodge,1997,NO,"12,260",1814529,2012,N
+290,47,Indiana,250/500,1000,139334,MALE,High School,exec-managerial,bungie-jumping,other-relative,15/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,20,3,YES,1,YES,56160,6240,12480,37440,Audi,2002,NO,"11,611",3367238,2013,Y
+134,36,Ohio,250/500,1000,149741,MALE,PhD,machine-op-inspct,kayaking,husband,25/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,17,3,NO,2,YES,77200,9650,9650,57900,Ford,1996,NO,"12,478",1672108,2003,N
+38,28,Ohio,500/1000,500,112295,MALE,Masters,priv-house-serv,golf,other-relative,23/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,4,3,NO,0,YES,74880,12480,12480,49920,Accura,2000,NO,"9,358",355601,1997,Y
+284,43, Illinois,250/500,500,112384,MALE,PhD,prof-specialty,kayaking,other-relative,23/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,12,3,NO,0,YES,36960,6720,3360,26880,Chevrolet,2007,NO,"9,365",2659755,2009,N
+293,45, Illinois,100/300,1000,111923,FEMALE,MD,exec-managerial,exercise,unmarried,18/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,13,3,NO,1,NO,51210,11380,5690,34140,Jeep,2015,NO,"9,327",2732787,2008,N
+255,39,Ohio,250/500,500,145395,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,07/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,17,3,YES,0,NO,29300,2930,5860,20510,Audi,2010,NO,"12,116",3089644,1999,N
+37,31, Illinois,500/1000,500,196963,FEMALE,MD,sales,skydiving,own-child,13/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,WV,21,3,NO,1,YES,76450,6950,13900,55600,Dodge,1995,NO,"16,414",607303,1997,N
+366,50,Indiana,500/1000,1000,156141,FEMALE,High School,handlers-cleaners,basketball,husband,04/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,5,3,YES,1,NO,70290,12780,12780,44730,Mercedes,2012,NO,"13,012",4762301,2013,Y
+253,46, Illinois,100/300,500,13582,FEMALE,MD,transport-moving,movies,husband,14/02/2015,Multi-vehicle Collision,Front Collision,Major Damage,NY,11,3,YES,0,NO,64570,5870,11740,46960,Jeep,2001,NO,"1,132",286354,2013,N
+255,46, Illinois,250/500,500,130234,FEMALE,JD,prof-specialty,video-games,own-child,12/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,WV,2,3,NO,1,NO,57860,5260,10520,42080,Volkswagen,2011,NO,"10,853",2767473,1996,N
+174,33,Indiana,250/500,2000,112443,FEMALE,College,farming-fishing,paintball,own-child,16/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,WV,14,3,YES,0,YES,44200,8840,4420,30940,Saab,1995,NO,"9,370",1630424,2010,N
+161,38, Illinois,100/300,2000,113385,MALE,PhD,priv-house-serv,exercise,not-in-family,03/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,0,3,YES,2,YES,60480,5040,15120,40320,Volkswagen,2003,NO,"9,449",1521249,2014,Y
+169,39,Ohio,100/300,2000,114015,MALE,High School,armed-forces,exercise,husband,19/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,VA,9,3,YES,0,NO,46200,4200,8400,33600,Suburu,2015,NO,"9,501",1605711,1998,N
+320,48, Illinois,250/500,2000,173049,MALE,College,transport-moving,hiking,not-in-family,24/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,WV,13,3,NO,2,NO,56160,4680,9360,42120,Saab,1995,NO,"14,421",4614640,2010,Y
+259,43, Illinois,500/1000,2000,153713,FEMALE,PhD,handlers-cleaners,kayaking,own-child,02/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,3,3,NO,0,YES,57060,6340,6340,44380,Ford,2012,NO,"12,809",3317639,2009,N
+57,25, Illinois,500/1000,2000,114306,FEMALE,Masters,tech-support,dancing,own-child,16/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,VA,0,3,NO,0,YES,72900,14580,14580,43740,Nissan,2010,NO,"9,526",542954,2010,N
+105,28,Ohio,250/500,500,108236,FEMALE,Associate,prof-specialty,golf,own-child,24/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,12,3,NO,2,NO,60500,12100,6050,42350,Audi,1995,NO,"9,020",947065,2003,N
+13,21,Indiana,100/300,1000,155631,MALE,Associate,prof-specialty,golf,not-in-family,19/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,19,3,YES,2,YES,94930,8630,8630,77670,Accura,2014,NO,"12,969",168600,2003,N
+312,47,Ohio,500/1000,1000,121207,FEMALE,MD,exec-managerial,polo,wife,01/03/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,17,3,NO,2,NO,56320,7040,7040,42240,Mercedes,2000,NO,"10,101",3151382,2006,N
+230,42,Indiana,100/300,1000,102311,FEMALE,MD,adm-clerical,golf,own-child,06/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,13,3,NO,1,YES,58850,10700,10700,37450,Accura,1999,NO,"8,526",1960961,2008,N
+212,40, Illinois,500/1000,1000,152445,FEMALE,Masters,other-service,golf,husband,11/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,NY,17,3,YES,0,YES,82400,8240,8240,65920,Nissan,2006,NO,"12,704",2693195,2001,N
+191,38, Illinois,100/300,2000,125344,FEMALE,Masters,craft-repair,sleeping,not-in-family,07/02/2015,Multi-vehicle Collision,Side Collision,Major Damage,VA,19,3,NO,2,NO,56320,10240,5120,40960,Volkswagen,2007,NO,"10,445",1995059,2013,N
+64,28, Illinois,500/1000,1000,146882,MALE,JD,handlers-cleaners,skydiving,other-relative,13/02/2015,Multi-vehicle Collision,Side Collision,Minor Damage,SC,9,3,NO,2,NO,60000,5000,10000,45000,Honda,1997,NO,"12,240",783371,1997,N
+97,27,Ohio,500/1000,500,158826,FEMALE,High School,tech-support,movies,husband,24/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,VA,22,3,YES,2,YES,75690,8410,8410,58870,Saab,2014,NO,"13,236",1283844,2001,N
+225,43,Ohio,100/300,1000,151754,MALE,JD,priv-house-serv,camping,own-child,09/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,16,3,NO,2,YES,64400,6440,6440,51520,BMW,2011,NO,"12,646",2845388,2009,Y
+178,38, Illinois,250/500,500,138114,FEMALE,College,other-service,camping,wife,22/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,10,3,NO,0,NO,57200,5200,10400,41600,BMW,2011,NO,"11,510",2048691,1996,Y
+135,30,Indiana,500/1000,2000,134124,FEMALE,MD,farming-fishing,skydiving,wife,19/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,WV,18,3,NO,0,NO,32670,5940,2970,23760,Honda,2003,NO,"11,177",1508895,1998,Y
+421,57,Indiana,250/500,2000,120626,FEMALE,Associate,armed-forces,bungie-jumping,own-child,31/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,NC,22,3,YES,0,NO,78500,15700,7850,54950,Audi,2015,NO,"10,052",4231962,1999,N
+412,56, Illinois,250/500,500,104256,MALE,High School,handlers-cleaners,yachting,own-child,20/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,SC,19,3,NO,0,NO,68040,15120,7560,45360,Suburu,1997,NO,"8,688",3579456,2008,N
+252,46,Indiana,500/1000,2000,10667,FEMALE,JD,handlers-cleaners,sleeping,own-child,30/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,VA,22,3,NO,0,NO,89520,14920,14920,59680,Audi,2014,NO,889,224007,2014,Y
+95,32,Indiana,500/1000,2000,135664,MALE,Masters,machine-op-inspct,golf,not-in-family,23/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,SC,21,3,YES,0,YES,83160,15120,15120,52920,Toyota,2003,NO,"11,305",1074007,2001,Y
+41,25,Ohio,100/300,1000,100414,MALE,Masters,priv-house-serv,sleeping,wife,15/02/2015,Multi-vehicle Collision,Front Collision,Major Damage,NC,13,3,NO,1,NO,48000,9600,4800,33600,Dodge,1995,NO,"8,368",343081,2012,N
+194,34, Illinois,100/300,500,142996,FEMALE,JD,protective-serv,board-games,husband,12/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,11,3,NO,1,YES,57200,11440,5720,40040,Toyota,2005,NO,"11,916",2311769,2014,N
+372,50,Ohio,500/1000,2000,136857,FEMALE,MD,tech-support,paintball,other-relative,03/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,NY,18,3,NO,2,YES,51800,5180,10360,36260,Accura,2003,NO,"11,405",4242567,2009,N
+94,26,Indiana,100/300,500,72266,MALE,MD,exec-managerial,camping,husband,23/01/2015,Multi-vehicle Collision,Front Collision,Major Damage,OH,6,3,YES,1,YES,36700,3670,7340,25690,Nissan,2010,NO,"6,022",566084,1998,N
+473,58,Indiana,100/300,2000,11314,FEMALE,MD,transport-moving,movies,other-relative,29/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,WV,12,4,YES,0,NO,63120,10520,10520,42080,Accura,1999,YES,943,445960,2009,N
+29,25, Illinois,250/500,2000,135283,MALE,Masters,farming-fishing,skydiving,own-child,22/01/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,4,4,YES,1,YES,64890,7210,7210,50470,Nissan,2013,YES,"11,274",326934,1998,N
+22,25,Ohio,250/500,2000,105324,FEMALE,College,prof-specialty,movies,other-relative,05/01/2015,Multi-vehicle Collision,Front Collision,Total Loss,NC,0,4,YES,1,NO,77130,8570,17140,51420,Accura,1995,NO,"8,777",193094,2006,N
+295,48,Ohio,500/1000,1000,133207,FEMALE,MD,exec-managerial,polo,unmarried,28/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,NY,20,2,NO,2,YES,86060,13240,13240,59580,Volkswagen,2002,NO,"11,101",3274672,2006,Y
+285,44, Illinois,500/1000,1000,159445,MALE,High School,handlers-cleaners,bungie-jumping,husband,05/02/2015,Multi-vehicle Collision,Side Collision,Total Loss,NC,17,2,YES,2,NO,55680,6960,6960,41760,Saab,2006,NO,"13,287",3786819,2005,N
+343,48,Indiana,250/500,500,145154,MALE,JD,adm-clerical,hiking,husband,08/01/2015,Multi-vehicle Collision,Side Collision,Total Loss,SC,13,4,NO,2,NO,65070,7230,14460,43380,Mercedes,2003,NO,"12,096",4148985,2010,N
+97,26, Illinois,250/500,1000,125208,MALE,College,exec-managerial,sleeping,not-in-family,08/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,VA,4,2,YES,2,NO,50400,10080,5040,35280,Honda,2000,YES,"10,434",1012098,2012,N
+157,31,Indiana,500/1000,500,125783,MALE,High School,farming-fishing,reading,own-child,14/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,OH,2,4,NO,2,NO,47700,4770,9540,33390,Accura,2011,YES,"10,482",1645661,2015,N
+369,53,Ohio,250/500,2000,145993,FEMALE,Masters,priv-house-serv,video-games,not-in-family,09/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,WV,10,2,YES,1,NO,77990,7090,14180,56720,Jeep,2012,NO,"12,166",4489285,2000,Y
+264,47,Indiana,250/500,2000,118146,FEMALE,JD,transport-moving,sleeping,other-relative,12/02/2015,Multi-vehicle Collision,Front Collision,Total Loss,OH,16,4,YES,1,YES,62370,5670,5670,51030,Dodge,2001,NO,"9,846",2599212,2010,N
+61,26,Ohio,100/300,2000,118828,FEMALE,JD,farming-fishing,skydiving,wife,14/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,VA,16,2,YES,1,NO,53820,11960,5980,35880,Ford,2015,YES,"9,902",604042,2003,N
+220,42,Indiana,100/300,1000,128172,MALE,College,farming-fishing,hiking,other-relative,13/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,SC,20,4,NO,0,YES,47740,4340,4340,39060,Honda,2005,NO,"10,681",2349820,2014,N
+415,52,Indiana,250/500,1000,9735,MALE,PhD,machine-op-inspct,polo,not-in-family,02/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,WV,15,2,YES,1,YES,51090,7860,7860,35370,Toyota,2003,NO,811,336669,2002,Y
+130,28,Ohio,500/1000,1000,100315,FEMALE,JD,farming-fishing,movies,other-relative,23/01/2015,Multi-vehicle Collision,Front Collision,Minor Damage,SC,21,2,YES,2,NO,85020,13080,13080,58860,Ford,2010,NO,"8,360",1086746,2009,Y
+303,50, Illinois,100/300,2000,83611,MALE,Masters,sales,camping,not-in-family,20/01/2015,Multi-vehicle Collision,Side Collision,Major Damage,SC,1,4,YES,1,NO,72840,12140,6070,54630,Dodge,2010,NO,"6,968",2111178,2005,N
+147,37,Ohio,500/1000,1000,14399,FEMALE,Associate,prof-specialty,video-games,husband,29/01/2015,Multi-vehicle Collision,Rear Collision,Total Loss,SC,2,2,NO,1,NO,53680,9760,4880,39040,Accura,2004,NO,"1,200",176388,2004,Y
+238,43,Ohio,250/500,1000,152445,MALE,High School,handlers-cleaners,chess,wife,16/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NC,21,4,NO,0,NO,42700,4270,4270,34160,Saab,1995,YES,"12,704",3023493,2005,N
+162,33,Ohio,250/500,500,96492,FEMALE,Associate,exec-managerial,base-jumping,other-relative,09/02/2015,Multi-vehicle Collision,Rear Collision,Major Damage,NY,17,4,NO,2,NO,35300,3530,3530,28240,Mercedes,1996,YES,"8,041",1302642,1995,N
+405,55, Illinois,250/500,500,87819,MALE,PhD,machine-op-inspct,golf,unmarried,01/03/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NC,2,4,YES,0,NO,38640,4830,4830,28980,Chevrolet,1997,NO,"7,318",2963891,2004,N
+70,28, Illinois,250/500,1000,131981,MALE,High School,machine-op-inspct,yachting,husband,28/01/2015,Multi-vehicle Collision,Side Collision,Minor Damage,WV,14,4,NO,1,YES,31680,3520,3520,24640,Toyota,2006,NO,"10,998",769889,2002,N
+85,27, Illinois,500/1000,2000,117414,MALE,College,priv-house-serv,dancing,unmarried,02/02/2015,Multi-vehicle Collision,Rear Collision,Minor Damage,NY,14,4,YES,0,NO,59070,10740,5370,42960,Toyota,2012,NO,"9,785",831683,2008,N
+212,39,Ohio,100/300,1000,125535,FEMALE,JD,protective-serv,skydiving,not-in-family,14/02/2015,Multi-vehicle Collision,Rear Collision,Total Loss,NY,22,2,NO,0,YES,59300,11860,5930,41510,Dodge,2008,NO,"10,461",2217785,1999,N
+140,36,Ohio,500/1000,2000,97926,FEMALE,JD,transport-moving,cross-fit,own-child,01/03/2015,Multi-vehicle Collision,Front Collision,Major Damage,NY,2,4,YES,0,YES,72800,14560,14560,43680,Honda,1998,NO,"8,161",1142470,2000,N
+310,48,Indiana,100/300,500,151634,FEMALE,JD,adm-clerical,sleeping,unmarried,04/01/2015,Multi-vehicle Collision,Rear Collision,Major Damage,SC,11,4,YES,0,NO,59400,13200,6600,39600,Saab,1996,YES,"12,636",3917212,1996,N
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
